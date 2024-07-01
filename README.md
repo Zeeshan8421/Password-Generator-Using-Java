@@ -6,27 +6,20 @@ Features
 Generate passwords of custom length
 Option to include lowercase, uppercase, digits, and special characters
 Secure random password generation using SecureRandom
-Usage
-Clone the repository:
 
-sh
-Copy code
+Usage
+
+Clone the repository:
 git clone https://github.com/yourusername/PasswordGenerator.git
 cd PasswordGenerator
+
 Compile the Java program:
-
-sh
-Copy code
 javac PasswordGenerator.java
+
 Run the program:
-
-sh
-Copy code
 java PasswordGenerator
-Follow the prompts to generate your password:
 
-bash
-Copy code
+Follow the prompts to generate your password:
 Enter desired password length: 12
 Include lowercase characters? (y/n): y
 Include uppercase characters? (y/n): y
